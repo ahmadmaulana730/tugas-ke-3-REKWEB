@@ -24,6 +24,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="<?= BASEURL; ?>/About">About</a>
+                        <a class="nav-link" href="<?= BASEURL; ?>/Mahasiswa">Mahasiswa</a>
                     </li>
 
                 </ul>
